@@ -85,7 +85,7 @@
      Відеоролик з демонстрацією роботи програмного коду:
      https://youtu.be/KAOI-1wGR-o
      Посилання на GitHub репозиторій з джерельним кодом:
-     https://github.com/NureIurkovskyiNikita/apz-pzpi-21-10-iurkovskyi-nikita/tree/main/Task4
+     https://github.com/NureIurkovskyiNikita/apz-pzpi-21-10-iurkovskyi-nikita/tree/main/Task4/apz-pzpi-21-10-iurkovskyi-nikita-task4
      
 
 
