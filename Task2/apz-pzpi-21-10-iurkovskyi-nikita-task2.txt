@@ -660,7 +660,7 @@ Admin
 https://youtu.be/j_4FfQ8NfBQ 
 2. Посилання  на  	GitHub  	репозиторій  	з  	джерельним 
  кодом  
- 
+ https://github.com/NureIurkovskyiNikita/apz-pzpi-21-10-iurkovskyi-nikita/tree/main/Task2/apz-pzpi-21-10-iurkovskyi-nikita-task2
  
  
  
