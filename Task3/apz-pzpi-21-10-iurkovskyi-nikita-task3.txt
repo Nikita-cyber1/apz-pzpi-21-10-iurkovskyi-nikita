@@ -86,7 +86,7 @@
      Відеоролик з поясненням роботи програмного коду:
       https://youtu.be/5ZaBQu-n5Vc
      Посилання на GitHub репозиторій з джерельним кодом:
-     https://github.com/NureIurkovskyiNikita/apz-pzpi-21-10-iurkovskyi-nikita/tree/main/Task3
+     https://github.com/NureIurkovskyiNikita/apz-pzpi-21-10-iurkovskyi-nikita/tree/main/Task3/apz-pzpi-21-10-iurkovskyi-nikita-task3
      Додаток А
 Діаграма взаємодії
 
